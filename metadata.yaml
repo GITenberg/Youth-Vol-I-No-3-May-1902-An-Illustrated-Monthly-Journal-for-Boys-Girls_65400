@@ -1,0 +1,35 @@
+_repo: Youth-Vol-I-No-3-May-1902-An-Illustrated-Monthly-Journal-for-Boys-Girls_65400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Coggins, Herbert Leonard
+    aliases:
+    - Coggins, Herbert L. Coggins
+    - Coggins, H. L.
+    birthdate: 1881
+    deathdate: 1974
+    gutenberg_agent_id: '53126'
+    url: http://www.gutenberg.org/2009/agents/53126
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_L._Coggins
+description: ''
+gutenberg_issued: '2021-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Children''s literature -- Periodicals'
+- GITenberg
+title: 'Youth, Vol. I, No. 3, May 1902
+
+  An Illustrated Monthly Journal for Boys & Girls'
+url: http://www.gutenberg.org/ebooks/65400
